@@ -25,8 +25,6 @@ Self-taught developer | Java & Spring Boot backend focus | Building REST APIs an
 
 ---
 
----
-
 ## Projects
 **[Task Tracker](https://github.com/malusiT/Task-Tracker)** — Java CLI task management tool  
 **[CLI Expense Tracker](https://github.com/malusiT/CLI-expense-tracker)** — Command line finance manager  
