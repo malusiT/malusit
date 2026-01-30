@@ -9,14 +9,14 @@ Self-taught developer | Java & Spring Boot backend focus | Building REST APIs an
 ---
 
 ## Tech Stack
-**Backend (Learning)**  
+**Backend**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
-**Frontend (Proficient)**  
+**Frontend**  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
