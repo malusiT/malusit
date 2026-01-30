@@ -36,9 +36,8 @@ Self-taught developer | Java & Spring Boot backend focus | Building REST APIs an
 ---
 
 ## Current Focus
-- Java SE 17 fundamentals (45% complete)
+- Java SE 17
 - Building production REST API
-- Preparing for Java SE 17 certification (Q1 2026)
 - **Seeking backend internship or junior developer role**
 
 ---
