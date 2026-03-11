@@ -51,3 +51,5 @@ Self-taught developer | Java & Spring Boot backend focus | Building REST APIs an
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malusiT&show_icons=true&theme=radical&hide_border=true)
 
 **Open to:** Backend internships • Junior roles • Remote work
+
+![](https://komarev.com/ghpvc/?username=malusiT&color=green)
