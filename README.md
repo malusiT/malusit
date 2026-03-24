@@ -1,7 +1,6 @@
 # Malusi Mhlanga
-**Backend Developer** | Java & Spring Boot | Durban, South Africa
-
-Self-taught developer | Java & Spring Boot backend focus | Building REST APIs and CLI tools | Previously frontend | Seeking junior backend role
+**Web Developer** | Java, Spring Boot & React | Durban, South Africa
+Specializing in Full-Stack Development with a focus on building robust Java & Spring Boot backend systems and modern React frontends. I design scalable REST APIs and high-performance web applications that solve real-world problems.
 
 [![Twitter](https://img.shields.io/badge/@Malusi__Mhlanga-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Malusi_Mhlanga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhlangamalusi23@gmail.com)
@@ -32,13 +31,6 @@ Self-taught developer | Java & Spring Boot backend focus | Building REST APIs an
 **[Java Banking App](https://github.com/malusiT/Java-Banking-App-Autoboxing-Challenge)** — Banking app with ArrayLists  
 **[Recipe Repository](https://malusit.github.io/Recipe-Repository/)** — Mobile recipe browser  
 **[Elevate Consulting](https://malusit.github.io/Elevate-Consulting-Solutions-Webpage/)** — Business landing page
-
----
-
-## Current Focus
-- Java SE 17
-- Building production REST API
-- **Seeking backend internship or junior developer role**
 
 ---
 
